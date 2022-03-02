@@ -1,3 +1,0 @@
-# Askabor
-# Askabor
-# Askabor

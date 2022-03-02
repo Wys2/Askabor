@@ -1,0 +1,19 @@
+{
+  "name": "askabor",
+  "version": "1.0.0",
+  "description": "A powerfull tiktok account creator",
+  "main": "askabor.js",
+  "scripts": {
+    "test": "node askabor.js -test"
+  },
+  "keywords": [
+    "hacking"
+  ],
+  "author": "Wys",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^13.4.1"
+  }
+}
