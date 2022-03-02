@@ -1,7 +1,7 @@
 {
   "name": "askabor",
   "version": "1.0.0",
-  "description": "A powerfull tiktok account creator",
+  "description": "A powerfull tiktok account creator using puppeteer.",
   "main": "askabor.js",
   "scripts": {
     "test": "node askabor.js -t"
