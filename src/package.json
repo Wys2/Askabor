@@ -4,13 +4,11 @@
   "description": "A powerfull tiktok account creator",
   "main": "askabor.js",
   "scripts": {
-    "test": "node askabor.js -test"
+    "test": "node askabor.js -t"
   },
-  "keywords": [
-    "hacking"
-  ],
+  "keywords": [],
   "author": "Wys",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
     "fs": "^0.0.1-security",
