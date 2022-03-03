@@ -33,7 +33,7 @@ fs.readFile(`${__dirname}/assets/askabor.txt`, function(err, data) {
   });
 
   page.on('console', (msg) => {
-    if(args[0] == "-t") console.log('PAGE LOG:', msg.text());
+    if(args[0] == "-t") console.log('Log :', msg.text());
   })
 
   await page.goto('https://tiktok.com', {
