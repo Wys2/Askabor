@@ -3,5 +3,7 @@
 
 A powerfull Tiktok account creator. Meant for boosting/spamming.
 
+ASKABOR IS CURRENTLY IN DEVELOPPING
+
 Meant for educational purposes.
 
