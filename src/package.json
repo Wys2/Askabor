@@ -4,7 +4,8 @@
   "description": "A powerfull tiktok account creator using puppeteer.",
   "main": "askabor.js",
   "scripts": {
-    "test": "node askabor.js -t"
+    "test": "node askabor.js -t",
+    "main": "node askabor.js"
   },
   "keywords": [],
   "author": "Wys",
